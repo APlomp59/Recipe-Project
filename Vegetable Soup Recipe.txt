@@ -7,3 +7,5 @@ Ingredients:
 	-one onions
 	-four carrots 
 	-bouillon 
+	-teaspoon of salt
+	-two teaspoons of peper 
